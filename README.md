@@ -1,8 +1,8 @@
 # AP-Spring-Cloud-Billing-Management
 
 1. Créer le micro service Customer-service
-    • Créer l’entité Customer
-    • Créer l’interface CustomerRepository basée sur Spring Data
+    1. Créer l’entité Customer
+    2. Créer l’interface CustomerRepository basée sur Spring Data
     • Déployer l’API Restful du micro-service en utilisant Spring Data Rest
     • Tester le Micro service
 2. Créer le micro service Inventory-service
