@@ -1,4 +1,6 @@
 # AP-Spring-Cloud-Billing-Management
+Architecture du projet
+![image](https://github.com/loukili-imane/Architecture-Microservice-Billing-Management-Spring-Cloud/assets/93887037/3b6eec85-03b2-4077-81e5-6e639c4729e9)
 
 1. Créer le micro service Customer-service
     1. Créer l’entité Customer
