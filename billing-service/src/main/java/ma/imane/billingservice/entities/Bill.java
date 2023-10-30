@@ -2,6 +2,7 @@ package ma.imane.billingservice.entities;
 
 import lombok.AllArgsConstructor;
 import lombok.Data;
+import lombok.Getter;
 import lombok.NoArgsConstructor;
 import ma.imane.billingservice.model.Customer;
 
@@ -13,7 +14,7 @@ import java.util.Date;
 @Entity
 @NoArgsConstructor
 @AllArgsConstructor
-@Data
+@Data @Getter
 public class Bill {
         @Id
         @GeneratedValue(strategy = GenerationType.IDENTITY)
